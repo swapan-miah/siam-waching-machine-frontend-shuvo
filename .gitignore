@@ -1,2 +1,57 @@
-node_modules
-   
+# Node modules
+node_modules/
+
+# Build output
+.next/
+out/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# Next.js build artifacts
+.next/
+out/
+
+# VSCode settings
+.vscode/
+
+
+
+# Mac system files
+.DS_Store
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Optional REPL history
+.node_repl_history
+
+# IDEs and editors
+.idea/
+*.swp
+*.swo
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Log files
+logs/
+*.log
